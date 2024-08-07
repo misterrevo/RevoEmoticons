@@ -1,0 +1,8 @@
+main: com.mrrevo.revoemoticons.Plugin
+name: RevoEmoticons
+version: '1.0'
+description: This plugin changes special text to emoticons on chat.
+permissions:
+  revo.emoticons:
+    description: Allows to change special text to emoticons.
+    default: op
